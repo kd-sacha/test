@@ -1,1 +1,3 @@
 this is a test for git init
+
+adding new line after creating new branch and switched to the new branch
