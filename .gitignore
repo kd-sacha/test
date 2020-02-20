@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # this is a comment and this will be not considered for pattern to exclude files/directory from git add .
+=======
+>>>>>>> newBranch
 Typescript examples/node_modules
 
 ignoreFolder
